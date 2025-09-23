@@ -1,0 +1,25 @@
+leftnav:
+- identifier: 5de62709-fa7b-33b2-5cca-b5f8ca345c75
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: e9c5b9df-9c95-8443-fa15-dcbca908027b
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 6939f00a-a1b7-4687-ceba-26054c4e9d21
+  name: Listening
+  pageRef: /pages/listening
+  weight: 30
+- identifier: 64308470-6076-7910-5149-57bb889abc57
+  name: Scores List
+  pageRef: /pages/scores-list
+  weight: 40
+- identifier: ab16a79b-761c-9962-2aab-933f201fb48a
+  name: Video and Audio Classes
+  pageRef: /pages/video-and-audio-classes/
+  weight: 50
+- identifier: be10eded-77f1-c3e8-41f2-d0fd8f07ec67
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 60
