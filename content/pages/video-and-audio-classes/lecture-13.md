@@ -2,6 +2,8 @@
 content_type: page
 description: ''
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Video and Audio Classes
@@ -35,7 +37,7 @@ This section gives details about the recordings played during class and other re
 
 *Recordings*
 
-Many of these recordings come from the Buda Musique {{% resource_link "1faef595-2fb6-41b8-b07f-52c954a675db" "*Ethiopiques* catalog" %}}. The following Ethiopiques CDs were used in the lecture.
+Many of these recordings come from the Buda Musique [*Ethiopiques* catalog](https://www.budamusique.com/en/catalogue/index/collection/8/ethiopiques). The following Ethiopiques CDs were used in the lecture.
 
 - *Ethiopiques 4: Ethio Jazz and Musique Instrumentale 1969-1974*.
 - *Ethiopiques 13: The Golden Seventies*.

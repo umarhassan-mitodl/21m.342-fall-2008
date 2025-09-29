@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides the course overview and information on
   meeting times, the textbook, requirements, grading, and the schedule of lectures,
   rehearsals, workshops, and performances.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -28,7 +30,7 @@ Three special features of this course are:
 2.  **Performance** of Mid Term and Final Projects by these ensembles
 3.  **Guest lecturers**, including Dr. Fred Harris, director of the Festival Jazz Ensemble, experts on the blending of Afro-Cuban and Ethiopian music with jazz, and the Gil Evans / Miles Davis collaborations, as well as the internationally renowned composer Walter Thompson.
 
-{{% resource_link "bea2164f-0258-4d81-9783-f6ac5b2c6f4b" "Mark Harvey bio page" %}}
+[Mark Harvey bio page](http://web.mit.edu/music/facstaff/harvey.html)
 
 Textbook
 --------
@@ -40,7 +42,7 @@ Requirements
 
 1.  Class attendance and participation (please bring music paper to each class)
 2.  Weekly listening, analysis, and composition assignments
-3.  Attendance at and reports on open rehearsals and performances by the {{% resource_link "171e843c-b46f-4587-8799-1c31a4716b84" "MIT Festival Jazz Ensemble" %}} \[FJE\] and the {{% resource_link "1c51280f-5410-4f93-b472-e19e8984114d" "Aardvark Jazz Orchestra" %}} \[AJO\] as scheduled throughout the term
+3.  Attendance at and reports on open rehearsals and performances by the [MIT Festival Jazz Ensemble](http://web.mit.edu/fje/www/) \[FJE\] and the [Aardvark Jazz Orchestra](http://www.aardvarkjazz.com/) \[AJO\] as scheduled throughout the term
 4.  A mid-term project to be performed by members of the AJO
 5.  A final project to be performed by the AJO or the FJE as concluding class sessions
 
@@ -63,8 +65,8 @@ Session Key:
 *   L = Lecture
 *   E = Required event outside of class: rehearsal, workshop or performance
 
-FJE: {{% resource_link "171e843c-b46f-4587-8799-1c31a4716b84" "MIT Festival Jazz Ensemble" %}}  
-AJO: {{% resource_link "1c51280f-5410-4f93-b472-e19e8984114d" "Aardvark Jazz Orchestra" %}}
+FJE: [MIT Festival Jazz Ensemble](http://web.mit.edu/fje/www/)  
+AJO: [Aardvark Jazz Orchestra](http://www.aardvarkjazz.com/)
 
 {{< tableopen >}}
 {{< theadopen >}}

@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides information on readings assigned for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ uid: e9c5b9df-9c95-8443-fa15-dcbca908027b
 
 Boras, Tom. _Jazz Composition and Arranging_. New York, NY: Schirmer, 2004. ISBN: 9780534252618.
 
-Brown, Anthony. "{{% resource_link "8517bbab-4e73-4e0c-87f1-0e7fb9130bb4" "Far East Suite: Director's Notes" %}}."
+Brown, Anthony. "[Far East Suite: Director's Notes](http://www.fifthstreammusic.org/far-east-suite-the-directors-notes)."
 
 Selections in Cerulli, Dom, et al., eds. _The Jazz Word_. New York, NY: Da Capo Press, 1987 (reprint of 1960). ISBN: 9780306802881.
 
@@ -30,9 +32,9 @@ Longstreth, Everett. _Jazz Band Stage Arranging_. Stoneham, MA: self-published, 
 
 Miller, Ron. _Modal Jazz Composition and Harmony_. Vol. 1. Rottenburg, Germany: Advance Music, 1992.
 
-Mingus, Charles. "{{% resource_link "74b13019-ec73-4e1e-98ab-16e20c891071" "What is a Jazz Composer" %}}?"
+Mingus, Charles. "[What is a Jazz Composer](https://www.charlesmingus.com/mingus/what-is-a-jazz-composer)?"
 
-Morris, Butch. _"Conduction®" Principles and Artist's Statement_. \[The artist's statement and related materials are available at the {{% resource_link "8482c909-3663-4a6f-92cd-2030980cd40b" "Conduction" %}} Web site.\]
+Morris, Butch. _"Conduction®" Principles and Artist's Statement_. \[The artist's statement and related materials are available at the [Conduction](http://www.conduction.us/) Web site.\]
 
 Rattenbury, Ken. _Duke Ellington: Jazz Composer_. New Haven, CT: Yale University Press, 1993. ISBN: 9780300055078.
 
@@ -40,6 +42,6 @@ Russo, William. _Jazz Composition and Orchestration_. Chicago, IL: University of
 
 ———. _Composing for Jazz Orchestra_. Chicago, IL: University of Chicago Press, 1973. ISBN: 9780226732091.
 
-Schuller, Gunther. Liner notes for _Mirage: Avant-Garde and Third Stream Jazz_. New World Records 80216, 1977. ({{% resource_link "d340680f-1faf-4e3d-9cf2-db7d0d182a4b" "PDF" %}})
+Schuller, Gunther. Liner notes for _Mirage: Avant-Garde and Third Stream Jazz_. New World Records 80216, 1977. ([PDF](https://nwr-site-liner-notes.s3.amazonaws.com/80216.pdf))
 
 Sturm, Fred. _Changes Over Time: The Evolution of Jazz Arranging_ (with CD). Rottenburg, Germany: Advance Music, 1995.

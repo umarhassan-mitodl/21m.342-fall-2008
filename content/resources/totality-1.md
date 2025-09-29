@@ -4,6 +4,8 @@ description: Thumbnail image accompanying a course video.
 file: /courses/21m-342-composing-for-jazz-orchestra-fall-2008/8ea38663b0fdc0c1c493faf3711e4406_totality.jpg
 file_size: 3638
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

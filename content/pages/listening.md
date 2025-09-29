@@ -12,7 +12,7 @@ uid: 6939f00a-a1b7-4687-ceba-26054c4e9d21
 ---
 These recordings are primarily organized by composer/arranger name. In cases where the band that recorded the selection is more prominent, the name of the bandleader is given, with the composer/arranger indicated in bracket.
 
-Three primary collections are indicated by abbreviated titles. (Unfortunately, these Smithsonian Collection recordings went {{% resource_link "616154a8-6f9b-4a02-83d3-1aa6cd407399" "out of print in 1998" %}}, although many libraries have them and used copies can be found for sale.)
+Three primary collections are indicated by abbreviated titles. (Unfortunately, these Smithsonian Collection recordings went [out of print in 1998](http://query.nytimes.com/gst/fullpage.html?res=9803EEDE1F3AF93BA35757C0A96E958260&sec=&spon=&pagewanted=all), although many libraries have them and used copies can be found for sale.)
 
 > \[BBJ\] *Big Band Jazz: From the Beginning to the Fifties*. Smithsonian Collection of Recordings, 1983. 4 CDs.
 > 
@@ -82,7 +82,7 @@ Composition No. 286 (Ghost Trance Music)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Creative Orchestra Music, 1976
 {{< tdclose >}}{{< tdopen >}}
-*Creative Orchestra Music*. RCA/Bluebird, 1976 \[original release\]; reissued on {{% resource_link "f4d950f3-48b3-4377-aa6d-21cb05d6dfaa" "*The Complete Arista Recordings of Anthony Braxton*" %}}, Mosaic Records, 2008.
+*Creative Orchestra Music*. RCA/Bluebird, 1976 \[original release\]; reissued on [*The Complete Arista Recordings of Anthony Braxton*](https://www.discogs.com/Anthony-Braxton-The-Complete-Arista-Recordings-Of-Anthony-Braxton/release/1521045), Mosaic Records, 2008.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 **Willem Breuker Kollektief**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -321,7 +321,7 @@ Bill Evans and Orchestra. *Brandeis Jazz Festival, 1957*. Gambit, 2005.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Views
 {{< tdclose >}}{{< tdopen >}}
-Vinny Golia Large Ensemble. *Pilgrimage to Obscurity*. {{% resource_link "a6ff3725-4f7d-404f-baa7-4c1932196409" "Nine Winds" %}} NWCD0130, 1985.
+Vinny Golia Large Ensemble. *Pilgrimage to Obscurity*. [Nine Winds](https://www.discogs.com/Vinny-Golia-Large-Ensemble-Pilgrimage-To-Obscurity/release/3062468) NWCD0130, 1985.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 **Benny Golson**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -381,14 +381,14 @@ Blue Sequence § 
 Echoes §   
 Scamology
 {{< tdclose >}}{{< tdopen >}}
-Aardvark Jazz Orchestra. {{% resource_link "42ce4d26-004b-40e6-a174-f82419c26aea" "*Aardvark Steps Out*" %}}. Nine Winds NWCD 0155, 1993.
+Aardvark Jazz Orchestra. [*Aardvark Steps Out*](https://www.discogs.com/Mark-Harvey-8-Aardvark-Jazz-Orchestra-The-Aardvark-Steps-Out/release/4142867). Nine Winds NWCD 0155, 1993.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Flex §
 {{< tdclose >}}{{< tdopen >}}
 
 Aardvark Jazz Orchestra. Recorded live at Regattabar, Cambridge MA, July 18, 2001.
 
-Internet Archive ({{% resource_link "81727ba3-3eab-4cda-acbf-57e16f36a705" "MP3 - 38MB" %}})
+Internet Archive ([MP3 - 38MB](http://www.archive.org/download/MIT21M.342F08/mit-21m.432-f08-flex_aardvark.mp3))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Flex §
@@ -396,30 +396,30 @@ Flex §
 
 MIT Festival Jazz Orchestra. Recorded live at MIT Kresge Auditorium, December 9, 2000. *The Tale of the Sky Swimmer*. HerbMIT Productions, 2002. (Courtesy of Frederick Harris, Jr. and the MIT FJE. Used with permission.)
 
-Internet Archive ({{% resource_link "832319f5-4e78-4914-98d0-bc701bacaca5" "MP3 - 33MB" %}})
+Internet Archive ([MP3 - 33MB](http://www.archive.org/download/MIT21M.342F08/mit-21m.432-f08-flex_fje.mp3))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 No Walls
 {{< tdclose >}}{{< tdopen >}}
-Aardvark Jazz Orchestra. {{% resource_link "56f7a919-a306-496c-8b9e-79f5a203f2e4" "*No Walls*" %}}. Aardmuse, 2007.
+Aardvark Jazz Orchestra. [*No Walls*](https://www.discogs.com/The-Aardvark-Jazz-Orchestra-No-Walls-A-Christmas-Concert/release/7072479). Aardmuse, 2007.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 The Prophet §
 {{< tdclose >}}{{< tdopen >}}
-Aardvark Jazz Orchestra. {{% resource_link "f229da56-4893-41ad-8555-1a813965ff44" "*Bethlehem COUNTERPOINT*" %}}. Aardmuse, 2002.
+Aardvark Jazz Orchestra. [*Bethlehem COUNTERPOINT*](https://www.discogs.com/The-AardvarkJazzOrchestra-Featuring-Sheila-Jordan-Bethlehem-Counterpoint/release/6582488). Aardmuse, 2002.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 The Seeker §
 {{< tdclose >}}{{< tdopen >}}
 
 Aardvark Jazz Orchestra. Recorded live at Regattabar, Cambridge MA, March 21, 2001.
 
-Internet Archive ({{% resource_link "1c389b63-a7ef-453e-be03-618f4e1bac8e" "MP3 - 16MB" %}})
+Internet Archive ([MP3 - 16MB](http://www.archive.org/download/MIT21M.342F08/mit-21m.432-f08-seeker_aardvark.mp3))
 
-Alternate recording: Aardvark Jazz Orchestra. {{% resource_link "9f7ae93d-4ae0-4700-ac65-135e72fcef99" "*The Seeker*" %}}. Leo Records, 2000.
+Alternate recording: Aardvark Jazz Orchestra. [*The Seeker*](https://www.discogs.com/The-Aardvark-Jazz-Orchestra-The-Seeker/release/3344445). Leo Records, 2000.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Spirals
 {{< tdclose >}}{{< tdopen >}}
-Aardvark Jazz Orchestra. {{% resource_link "70af7d2b-0a33-42da-9aed-f0d1f914f47c" "*Trumpet Madness*" %}}. Leo Records, 2005.
+Aardvark Jazz Orchestra. [*Trumpet Madness*](https://www.discogs.com/The-Aardvark-Jazz-Orchestra-Trumpet-Madness/release/2445074). Leo Records, 2005.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 St. James Infirmary \[arr. Mark Harvey\] §   
 Three Bs & a Bop
@@ -428,7 +428,7 @@ Private recording
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Swing Landscape
 {{< tdclose >}}{{< tdopen >}}
-Aardvark Jazz Orchestra. {{% resource_link "e58960bd-f570-4bc0-9113-c8f990da44f3" "*Paintings for Jazz Orchestra*" %}}. Leo Records, 1993.
+Aardvark Jazz Orchestra. [*Paintings for Jazz Orchestra*](https://www.discogs.com/Mark-Harvey-8-the-Aardvark-Jazz-Orchestra-Paintings-For-Jazz-Orchestra/release/2634859). Leo Records, 1993.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 **Fletcher Henderson**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -600,7 +600,7 @@ Round Midnight \[Arr: Marty Paich\] §
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Round Midnight \[Arr: Oliver Nelson\]
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "a8ddd96d-144b-4b5b-9e5d-d8722a4c2b58" "*Oliver Nelson: The Argo, Verve & Impulse Big Band Studio Sessions*" %}}. Mosaic #233, 2007.
+[*Oliver Nelson: The Argo, Verve & Impulse Big Band Studio Sessions*](https://www.allaboutjazz.com/oliver-nelson-the-argo-verve-and-impulse-big-band-studio-sessions-oliver-nelson-mosaic-records-review-by-andrew-velez.php). Mosaic #233, 2007.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Round Midnight \[Arr: H. Mancini\]
 {{< tdclose >}}{{< tdopen >}}
@@ -668,7 +668,7 @@ The Jazzhattan Suite 
 Miss Fine §   
 Soundpiece §
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "a8ddd96d-144b-4b5b-9e5d-d8722a4c2b58" "*Oliver Nelson: The Argo, Verve & Impulse Big Band Studio Sessions*" %}}. Mosaic #233, 2007.
+[*Oliver Nelson: The Argo, Verve & Impulse Big Band Studio Sessions*](https://www.allaboutjazz.com/oliver-nelson-the-argo-verve-and-impulse-big-band-studio-sessions-oliver-nelson-mosaic-records-review-by-andrew-velez.php). Mosaic #233, 2007.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Emancipation Blues §
 {{< tdclose >}}{{< tdopen >}}
@@ -686,7 +686,7 @@ See also these suites: 
 The Kennedy Dream \[a tribute to John F. Kennedy\]   
 Peter and the Wolf \[featuring Jimmy Smith, organ\]
 {{< tdclose >}}{{< tdopen >}}
-{{% resource_link "a8ddd96d-144b-4b5b-9e5d-d8722a4c2b58" "*Oliver Nelson: The Argo, Verve & Impulse Big Band Studio Sessions*" %}}. Mosaic #233, 2007.
+[*Oliver Nelson: The Argo, Verve & Impulse Big Band Studio Sessions*](https://www.allaboutjazz.com/oliver-nelson-the-argo-verve-and-impulse-big-band-studio-sessions-oliver-nelson-mosaic-records-review-by-andrew-velez.php). Mosaic #233, 2007.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 **New York Composers Orchestra**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -839,7 +839,7 @@ PEXO - A Soundpainting Symphony
 
 *PEXO - A Soundpainting Symphony*. Nine Winds, 2003.
 
-Video of the Walter Thompson Orchestra: climbersax. "Soundpainting - Walter Thompson." November 4, 2007. YouTube. Accessed June 6, 2009. {{% resource_link "a39ee9df-2d34-4148-979d-ea9d13b36d9e" "http://www.youtube.com/watch?v=wA4nnxG30og" %}}.
+Video of the Walter Thompson Orchestra: climbersax. "Soundpainting - Walter Thompson." November 4, 2007. YouTube. Accessed June 6, 2009. [http://www.youtube.com/watch?v=wA4nnxG30og](http://www.youtube.com/watch?v=wA4nnxG30og).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 **Gerald Wilson**
