@@ -4,8 +4,6 @@ description: Example of student work.
 file: /courses/21m-342-composing-for-jazz-orchestra-fall-2008/1d61ec1233656eb94dfcf9e4642b5304_empty_bottles.pdf
 file_size: 306055
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
